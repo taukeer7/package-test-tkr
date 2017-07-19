@@ -3,26 +3,11 @@
   "description": "An example laravel package",
   "authors": [
     {
-      "name": "Your Name",
-      "email": "you@example.com"
+      "name": "taukeer",
+      "email": "taukeer.liaqat@gmail.com"
     }
   ],
   "require": {
-    "php": "^7.0",
-    "illuminate/contracts": "^5.1",
-    "illuminate/support": "^5.1"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^6.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "Foo\\Bar\\Example\\": "src/"
-    }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0-dev"
-    }
+    "php": ">=5.6.4"
   }
 }
