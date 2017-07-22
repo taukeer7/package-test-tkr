@@ -7,9 +7,8 @@
       "email": "taukeer.liaqat@gmail.com"
     }
   ],
-  "require": {
-    "php": ">=5.6.4"
-  },
+  "licence": "MIT",
+  "require": {},
   "minimum-stability": "stable",
   "extra": {
       "branch-alias": {
